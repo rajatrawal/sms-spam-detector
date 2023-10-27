@@ -1,0 +1,4 @@
+venv
+model_final.pkl
+tfidf.pkl
+new_df.csv
